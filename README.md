@@ -13,6 +13,9 @@ Please check the [official documentation of Moralis](https://docs.moralis.io/#us
 
 # ⭐️ `Star us`
 If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
+If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
+If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
+If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
 
 # 🤝 `Need help?`
 If you need help with setting up the boilerplate or have other questions - don't hesitate to write in our community forum and we will check asap. [Forum link](https://forum.moralis.io/t/ethereum-unity3d-boilerplate-questions/4553). The best thing about this boilerplate is the super active community ready to help at any time! We help each other.
